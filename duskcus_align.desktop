@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=duskcus_align
+X-Python-2-Compatible=false
+X-Krita-Manual=README.md
+Name=DuskcuS Align
+Comment=Simple aligning tool for in your dock
