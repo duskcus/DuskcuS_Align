@@ -31,3 +31,5 @@
 </ul>
 
 <p>A new dock should appear and it should be self explanatory at that point</p>
+<p>Only thing I should point out is that Krita doesn't allow me to program in moving multiple layers.</p>
+<p>So if you want to move multiple layers you need to make a group of those layers first.</p>
