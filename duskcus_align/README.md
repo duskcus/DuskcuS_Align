@@ -30,4 +30,6 @@
     <li>Settings > Dockers > DuskcuS Align [x]</li>
 </ul>
 
-<p>A new dock should appear and it should be self explanatory at that point</p>
+<p>A new dock should appear and it should be self explanatory at that point.<br>
+    Only thing I should point out is that Krita doesn't allow me to program in moving multiple layers.<br>
+    So if you want to move multiple layers you need to make a group of those layers first.</p>

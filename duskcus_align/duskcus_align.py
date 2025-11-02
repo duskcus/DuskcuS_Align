@@ -130,13 +130,13 @@ class AlignToSelectionDocker(DockWidget):
         
         # Quick align buttons (existing functionality)
         align_horiz_button = QPushButton()
-        align_horiz_button.setIcon(Krita.instance().icon('object-align-horizontal-center-calligra'))
+        align_horiz_button.setIcon(Krita.instance().icon('distribute-horizontal'))
         align_horiz_button.setToolTip("Horizontal")
         align_horiz_button.clicked.connect(self.b_align_horiz)
         align_horiz_button.setFixedSize(32, 32)
 
         align_vert_button = QPushButton()
-        align_vert_button.setIcon(Krita.instance().icon('object-align-vertical-center-calligra'))
+        align_vert_button.setIcon(Krita.instance().icon('distribute-vertical'))
         align_vert_button.setToolTip("Vertical")
         align_vert_button.clicked.connect(self.b_align_vert)
         align_vert_button.setFixedSize(32, 32)
