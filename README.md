@@ -23,9 +23,11 @@
     <li>Enable the plugin in Settings > Configure Krita > Python Plugin Manager</li>
 </ol>
 
-<h2>Troubleshooting</h2>
+<h2>Lastly turn these on</h2>
+
 <ul>
-    <li>Make sure you're using a compatible Krita version</li>
-    <li>Check that Python scripting is enabled</li>
-    <li>View Krita's log for error messages</li>
+    <li>Settings > Python Plugin Manager > DuskcuS Align [x]</li>
+    <li>Settings > Dockers > DuskcuS Align [x]</li>
 </ul>
+
+<p>A new dock should appear and it should be self explanatory at that point</p>
